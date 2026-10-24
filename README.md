@@ -21,6 +21,7 @@ A curated collection of interior design resources for professionals and enthusia
     - [📐 Space Planning & Floor Plans](#-space-planning--floor-plans)
     - [⚡ Project Management](#-project-management)
     - [🎯 Specialized Tools](#-specialized-tools)
+    - [🤖 AI Interior Design Tools](#-ai-interior-design-tools)
   - [📱 Apps & Online Tools](#-apps--online-tools)
   - [📖 Learning Resources](#-learning-resources)
   - [🛠️ Professional Resources](#️-professional-resources)
@@ -178,6 +179,10 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Adobe Color](https://color.adobe.com/) - Free color palette creation and exploration tool
 - [Colormind](http://colormind.io/) - AI-powered color palette generator
 - [Interior Design Quiz](https://mystofa.com/quizes/design-test) - Quiz to find your clients interior design style preferences
+
+#### 🤖 AI Interior Design Tools
+- [myStofa Studio](https://studio.mystofa.com) — AI interior design consultation: describe your space and style, get a personalized design concept with layout, color palette, materials, and furniture recommendations, grounded in data from 200,000+ style quiz users
+
   
 ### 📱 Apps & Online Tools
 
